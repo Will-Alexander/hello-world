@@ -1,3 +1,3 @@
 # hello-world
 
-GitHub is my favorite MMO
+GitHub is my favorite MMO.
